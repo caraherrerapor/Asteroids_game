@@ -1,10 +1,11 @@
 
- */package Components;
+ package Components;
  
  import java.awt.Shape;
-import java.util.Objects;*/package Components;
+ import java.util.Objects;
+
  
- import java.awt.Shape;
+ 
 
 
 public class BaseVectorShape {
